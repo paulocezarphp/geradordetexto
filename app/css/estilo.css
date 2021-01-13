@@ -1,3 +1,15 @@
 body{
    background: #f2f2f2;
 }
+
+.container{
+   padding: 30px 200px;
+}
+
+#textogerado{
+	width: 100%;
+	padding: 20px;
+	background: #fff;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+}

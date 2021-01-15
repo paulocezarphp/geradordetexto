@@ -1,13 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
 body{
 	background: #f2f2f2;
+	font-family: 'Montserrat', sans-serif;
 }
 
 .container{
-	padding: 30px 200px;
+	margin: 30px 200px;
+	background: #fff;
+	padding: 30px;
 }
 
 #textogerado{
-	width: 100%;
+	width: 96%;
 	padding: 20px;
 	background: #fff;
 	border: 1px solid #ccc;
@@ -15,7 +20,7 @@ body{
 }
 
 #botaogerartexto{
-	padding: 10px 15px;
+	padding: 17px 30px;
 	background: #0099ff;
 	color: #fff;
 	border-radius: 3px;
@@ -31,6 +36,7 @@ body{
 	cursor: pointer;
 	margin-top: 20px;
 	margin-bottom: 20px;
+	font-size: 18px;
 }
 
 #botaogerartexto:hover{
@@ -49,11 +55,13 @@ body{
     padding: 10px;
     width: 150px;
     margin-bottom: 10px;
+    font-size: 18px;
 }
 
 .texto-descricao{
 	margin-bottom: 10px;
 	font-size: 18px;
+	font-weight: 500;
 }
 
 h1{

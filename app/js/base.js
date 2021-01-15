@@ -2,8 +2,8 @@
 
 var listadepalavras = [
    'muda', 'canni','herem','ju','teret','pale','alt','shift','hum','poo',
-   'durt','homer','nii','casur','thir','','','','','',
-   '','','','','','','','','','',
+   'durt','homer','nii','casur','thir','kak','vert','bug','lag','leig',
+   'yol','peli','datt','woldeeemm','totonar','verick','trut','qqqe','zim','rat',
    '','','','','','','','','','',
    '','','','','','','','','','',
    '','','','','','','','','','',

@@ -12,15 +12,21 @@
 		<h1>Gerador de Texto (0.2)</h1>
 
 		<div class="texto-descricao">Digite a quantidade de parágrafos:</div>
-		<input type="number" name="" class="input-dados" value="5"><br><br>
+		<input type="number" name="" class="input-dados" value="5" id="nparagrafos"><br><br>
+
+		<div class="texto-descricao">Digite a quantidade de palavras por parágrafos:</div>
+		<input type="number" name="" class="input-dados" value="100" id="npalavras"><br><br>
         
         <div class="texto-descricao">Digite a quantidade de parágrafos:</div>
-        <p><input type="radio" name="estilotexto" class="estilotexto" checked> Texto comum</p>
-        <p><input type="radio" name="estilotexto" class="estilotexto"> Texto com HTML</p>
+        <input type="radio" name="estilotexto" class="estilotexto" checked> Texto comum
+        <input type="radio" name="estilotexto" class="estilotexto"> Texto com HTML
 
-        <br>
+        <br><br>
+         
+        <div> 
+		   <button id="botaogerartexto" >Gerar Texto</button>
+        </div>
 
-		<button id="botaogerartexto" >Gerar Texto</button>
 		<h3>Resultado</h3>
 		<div id="textogerado">
 			...

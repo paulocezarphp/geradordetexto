@@ -12,10 +12,9 @@ body{
 }
 
 #textogerado{
-	width: 96%;
-	padding: 40px 20px;
-	background: #fff;
-	border: 1px solid #ccc;
+	width: 91.5%;
+	padding: 40px 40px;
+	background: #efeff5;
 	border-radius: 4px;
 	text-align: justify;
 	word-spacing: 6px;

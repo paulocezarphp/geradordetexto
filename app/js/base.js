@@ -11,6 +11,7 @@
    'cometo','paru','willcom','grumpjuir','calcado','risi','batabata','safirm','menorenpo','aar',
    'seghyh','wejkt','borgmand','yyum','kadiho','noverkan','monic','vumm','zerimbarner','oioi',
    'miriade', 'kava', 'toremureno', 'rorodem', 'turing', 'durmir', 'queen', 'roder', 'mi', 'juana',
+   'tornet','ritoo','elgor','hunder','ocered','ptnot','rolder','quionner','madee','id',
    '0', '1', '2', '3', '4', '5', '6', '7', '8', '9'
    ];
 

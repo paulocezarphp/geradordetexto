@@ -1,0 +1,84 @@
+@media only screen and (min-width: 901px){
+
+	body{
+		background: #f2f2f2;
+		font-family: 'Montserrat', sans-serif;
+	}
+
+	.quebralinha{
+		display: none;
+	}
+
+	.container{
+		margin: 30px 200px;
+		background: #fff;
+		padding: 30px;
+	}
+
+	#textogerado{
+		width: 91.5%;
+		padding: 40px 40px;
+		background: #efeff5;
+		border-radius: 4px;
+		text-align: justify;
+		word-spacing: 6px;
+		line-height: 23px;
+	}
+
+	#botaogerartexto{
+		padding: 17px 30px;
+		background: #0099ff;
+		color: #fff;
+		border-radius: 3px;
+		-webkit-touch-callout: none;
+		-webkit-user-select: none;
+		-khtml-user-select: none;
+		-moz-user-select: none;
+		-ms-user-select: none;
+		user-select: none;
+		box-shadow: 0 0 0 0;
+		border: 0 none;
+		outline: 0;
+		cursor: pointer;
+		margin-top: 20px;
+		margin-bottom: 20px;
+		font-size: 18px;
+		position: relative;
+		transform: translateX(-50%);
+		left: 50%;
+	}
+
+	#botaogerartexto:hover{
+		background: #008ae6;
+	}
+
+	#botaogerartexto:active{
+		background: #0099ff;
+	}
+
+	.input-dados{
+		box-shadow: 0 0 0 0;
+		outline: 0;
+		border: 1px solid #0099ff;
+		border-radius: 3px;
+		padding: 10px;
+		width: 150px;
+		margin-bottom: 10px;
+		font-size: 18px;
+	}
+
+	.texto-descricao{
+		margin-bottom: 10px;
+		font-size: 18px;
+		font-weight: 500;
+	}
+
+	h1{
+		font-weight: bold;
+		margin-bottom: 50px;
+		color: #008ae6;
+		font-size: 40px;
+	}
+
+
+}
